@@ -1,0 +1,6 @@
+create schema smartproxydb;
+use smartproxydb;
+create table user (email varchar(100) primary key, password text, addr text, role text, fname text, lname text, gender text, mobile text);
+
+create table endpoints(endpoint_type text, endpoint_url text, email text, dbname text, username text, password text);
+
