@@ -12,7 +12,7 @@ Advantages
 •	Added security model across the database systems
 
 
-
+![](https://github.com/NagachandraKambathalliParswanatha/SmartProxy/blob/master/Picture1.png)
 
 
 
